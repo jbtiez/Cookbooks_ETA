@@ -1,0 +1,26 @@
+topic_id,1900s,late1800s,mid1800s,topterms,names
+0,0.031176449484360543,0.04873257863823608,0.038602887503887476,juice sugar water lemon fruit pudding orange jelly syrup bottle,making_preserves
+1,0.029519795352654282,0.03984163696999363,0.042903489879474295,crumbs parsley lobster pepper sauce butter oysters egg salt mayonnaise,rich_sauce
+2,0.014530536031087829,0.02505044201723434,0.0681209210730313,powder oysters flavour soda acid spice cook sweetbreads ingredients relish,flavorful_ingredients
+3,0.03547912392887433,0.021479086733913248,0.03194680655967742,knife lettuce pieces skin dressing end way oil salad slices,food_prep
+4,0.03128907402388548,0.04776118527953509,0.030997165744022913,food rice tea family day diet foods value time grains,food_staples
+5,0.04181163332234198,0.0343188507593227,0.025186675816637596,potatoes meal soup coffee breakfast way carrots dish dinner stock,meal_timing
+6,0.040991855269082146,0.060676995144472265,0.020578258505853497,food water body jars foods substances pressure air protein salts,cooking_basics
+7,0.049939478067036205,0.060182855352813376,0.04921506674184436,water minutes salt boiling tender hour boil point pieces hours,boiling
+8,0.08343241506104102,0.07159855825002845,0.07141087314765515,sugar eggs water milk flour butter mixture egg salt pound,cake
+9,0.05368366941290063,0.020497058953522034,0.018387260243410915,cake kind method cakes pastry preparation dessert making recipes kinds,dessert
+10,0.037020355914461414,0.03997427550394955,0.07303328132470267,meat beef mutton roast ham chops veal steak piece steaks,meat
+11,0.014340761725224783,0.04150897601317688,0.0733799068845833,soup head meat pieces stock hour turtle quarts lobster pounds,rich_soup
+12,0.06538456244780637,0.03256415914267546,0.02590651238716319,tsp salt butter pepper tomatoes milk chicken onion water toast,tomato_sauce
+13,0.032516639886260204,0.026842002180862277,0.03173777631417252,butter pie paste bread crust slices place filling table slice,pie
+14,0.02240858453908626,0.03485087285452954,0.06286834152600913,fish water dish salt hour hours macaroni salmon day layer,fish
+15,0.0446625994039567,0.027852187981207793,0.015671415103034683,egg eggs ice mixture beans cheese shell cakes place liquid,more_desserts
+16,0.038261121248830486,0.03495263525952561,0.022998883956175067,salad cooking dressing salads temperature time oil year heat meat,salad/meat
+17,0.029148792513874897,0.03477510623153932,0.029718478634267652,fat flour meat bread wheat salt hare pork potato pan,generic_recipe
+18,0.07370805771931348,0.02320531991883589,0.01970135094574327,fruit fruits vegetables sugar food flavor foods cabbage apples value,fruits/veggies
+19,0.043758127573107965,0.04583653524221752,0.04499492062416262,bread ingredients dough time work cookery process making use things,bread
+20,0.03923889991059879,0.04971902471004361,0.015180901097037814,milk cream water cheese custard dish sugar place butter boiler,custard
+21,0.0229458587687033,0.03343099204167201,0.03408672708973188,oven dish bacon place minutes bone pan layer butter shells,oven
+22,0.02676363240243333,0.06342988766754312,0.11971598459846718,sauce pan butter salt pepper gravy flour minutes spoonful water,gravy
+23,0.04020094738197979,0.03528141605467202,0.022382798250166373,coffee corn food cereals chocolate use cocoa beverages value cereal,breakfast
+24,0.057787028611091557,0.045637361098478976,0.011273316049088749,cup teaspoon tablespoons cups water tablespoon salt milk tablespoonfuls teaspoonful,measurement
